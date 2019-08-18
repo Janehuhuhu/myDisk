@@ -1,0 +1,29 @@
+学习清单  2019.5.30
+
+1. 基础
+	js 
+	es6   http://es6.ruanyifeng.com/#README
+	html(5)
+	css(3)
+	移动端web
+	动画  https://www.tweenmax.com.cn/demo/
+	
+2. 网络基础
+	http协议  https://www.cnblogs.com/imyalost/p/7223493.html
+	ajax
+	同源策略
+	CORS
+	
+3. 框架
+	vue 全家桶    https://cn.vuejs.org/v2/guide/installation.html
+	node.js（npm包管理工具）  https://nodejs.org/zh-cn/docs/es6/   http://nodejs.cn/api/
+	element-ui   https://element.eleme.cn/#/zh-CN/component/transition
+	mint-ui   http://mint-ui.github.io/docs/#/en2/loadmore
+	
+4. 打包
+	git                     https://git-scm.com/book/zh/v2
+	webpack （grunt/gulp）  https://www.webpackjs.com/concepts/
+	js模块化
+	css模块化
+	
+5. demo
